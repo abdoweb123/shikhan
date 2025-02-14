@@ -1,0 +1,43 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> b7cb4e1d80796a98313415ef7a5d8e797d4f6f04
+.right_col{
+    min-height: unset!important;
+}
+
+.nav-md .element-form .table-responsive{
+    width: calc(100vw - calc(350px));
+}
+
+.nav-sm .element-form .table-responsive{
+    width: calc(100vw - calc(190px));
+}
+
+@media (max-width: 991px){
+    .element-form .table-responsive{
+        width: 100vw;
+    }
+}
+<<<<<<< HEAD
+=======
+=======
+.right_col{
+    min-height: unset!important;
+}
+
+.nav-md .element-form .table-responsive{
+    width: calc(100vw - calc(350px));
+}
+
+.nav-sm .element-form .table-responsive{
+    width: calc(100vw - calc(190px));
+}
+
+@media (max-width: 991px){
+    .element-form .table-responsive{
+        width: 100vw;
+    }
+}
+>>>>>>> origin/Abdelrahman_shikhan-10
+>>>>>>> b7cb4e1d80796a98313415ef7a5d8e797d4f6f04

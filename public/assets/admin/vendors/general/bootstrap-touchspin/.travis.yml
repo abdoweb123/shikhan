@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+language: node_js
+node_js:
+  - 0.10
+=======
+<<<<<<< HEAD
+language: node_js
+node_js:
+  - 0.10
+=======
+language: node_js
+node_js:
+  - 0.10
+>>>>>>> origin/Abdelrahman_shikhan-10
+>>>>>>> b7cb4e1d80796a98313415ef7a5d8e797d4f6f04

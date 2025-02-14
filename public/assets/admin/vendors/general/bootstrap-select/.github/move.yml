@@ -1,0 +1,56 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> b7cb4e1d80796a98313415ef7a5d8e797d4f6f04
+# Configuration for move-issues - https://github.com/dessant/move-issues
+
+# Delete the command comment when it contains no other content
+deleteCommand: true
+
+# Close the source issue after moving
+closeSourceIssue: true
+
+# Lock the source issue after moving
+lockSourceIssue: false
+
+# Mention issue and comment authors
+mentionAuthors: true
+
+# Preserve mentions in the issue content
+keepContentMentions: true
+
+# Set custom aliases for targets
+# aliases:
+#   r: repo
+#   or: owner/repo
+
+# Repository to extend settings from
+<<<<<<< HEAD
+=======
+=======
+# Configuration for move-issues - https://github.com/dessant/move-issues
+
+# Delete the command comment when it contains no other content
+deleteCommand: true
+
+# Close the source issue after moving
+closeSourceIssue: true
+
+# Lock the source issue after moving
+lockSourceIssue: false
+
+# Mention issue and comment authors
+mentionAuthors: true
+
+# Preserve mentions in the issue content
+keepContentMentions: true
+
+# Set custom aliases for targets
+# aliases:
+#   r: repo
+#   or: owner/repo
+
+# Repository to extend settings from
+>>>>>>> origin/Abdelrahman_shikhan-10
+>>>>>>> b7cb4e1d80796a98313415ef7a5d8e797d4f6f04
+# _extends: repo

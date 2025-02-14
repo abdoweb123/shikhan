@@ -1,0 +1,39 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> b7cb4e1d80796a98313415ef7a5d8e797d4f6f04
+# This file is for unifying the coding style for different editors and IDEs
+# editorconfig.org
+
+root = true
+
+[*]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+[*.md]
+trim_trailing_whitespace = false
+<<<<<<< HEAD
+=======
+=======
+# This file is for unifying the coding style for different editors and IDEs
+# editorconfig.org
+
+root = true
+
+[*]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+[*.md]
+trim_trailing_whitespace = false
+>>>>>>> origin/Abdelrahman_shikhan-10
+>>>>>>> b7cb4e1d80796a98313415ef7a5d8e797d4f6f04

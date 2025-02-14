@@ -1,0 +1,29 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> b7cb4e1d80796a98313415ef7a5d8e797d4f6f04
+Font license info
+
+
+## Font Awesome
+
+   Copyright (C) 2012 by Dave Gandy
+
+   Author:    Dave Gandy
+   License:   SIL ()
+   Homepage:  http://fortawesome.github.com/Font-Awesome/
+<<<<<<< HEAD
+=======
+=======
+Font license info
+
+
+## Font Awesome
+
+   Copyright (C) 2012 by Dave Gandy
+
+   Author:    Dave Gandy
+   License:   SIL ()
+   Homepage:  http://fortawesome.github.com/Font-Awesome/
+>>>>>>> origin/Abdelrahman_shikhan-10
+>>>>>>> b7cb4e1d80796a98313415ef7a5d8e797d4f6f04

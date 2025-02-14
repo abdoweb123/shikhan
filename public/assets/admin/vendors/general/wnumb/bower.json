@@ -1,0 +1,59 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> b7cb4e1d80796a98313415ef7a5d8e797d4f6f04
+{
+  "name": "wnumb",
+  "main": "wNumb.js",
+  "version": "1.1.0",
+  "homepage": "https://refreshless.com/wnumb/",
+  "description": "wNumb - JavaScript Number & Money formatting",
+  "keywords": [
+    "javascript",
+    "js",
+    "number",
+    "money",
+    "formatting"
+  ],
+  "authors": [
+    "Leon Gersen"
+  ],
+  "license": "WTFPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
+<<<<<<< HEAD
+=======
+=======
+{
+  "name": "wnumb",
+  "main": "wNumb.js",
+  "version": "1.1.0",
+  "homepage": "https://refreshless.com/wnumb/",
+  "description": "wNumb - JavaScript Number & Money formatting",
+  "keywords": [
+    "javascript",
+    "js",
+    "number",
+    "money",
+    "formatting"
+  ],
+  "authors": [
+    "Leon Gersen"
+  ],
+  "license": "WTFPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
+>>>>>>> origin/Abdelrahman_shikhan-10
+>>>>>>> b7cb4e1d80796a98313415ef7a5d8e797d4f6f04

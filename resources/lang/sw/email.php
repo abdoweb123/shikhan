@@ -1,0 +1,1 @@
+<?php return ["default_subject"=>"African Islamic Academy"];

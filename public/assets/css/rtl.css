@@ -1,0 +1,59 @@
+.socialicon{
+    padding-left: unset;
+    padding-right: 11.2%;
+}
+.logreg {
+    padding-right: 45.5%;
+    padding-left: unset;
+}
+
+.logreg>li {
+    float: right;
+}
+
+.website-logo {
+    right: .5em;
+    left: unset;
+}
+
+.text-left {
+    text-align: right;
+}
+
+.text-right {
+    text-align: left;
+}
+
+.rightside {
+    left:inherit;
+    right: 50%;
+}
+.leftside>h1 {
+    left: inherit;
+    right: 13.2%;
+}
+.leftside>p {
+    left: inherit;
+    right: 13.2%;
+}
+.leftside>img {
+    margin-right: 8.1%;
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+
+.custom-input-file {
+    border-top-right-radius: inherit;
+    border-top-left-radius: 21px;
+}
+
+.card-action {
+    text-align: left;
+}
+
+.range output {
+    border-bottom-right-radius: 0!important;
+    border-top-right-radius: 0!important;
+    border-bottom-left-radius: 4px!important;
+    border-top-left-radius: 4px!important;
+}

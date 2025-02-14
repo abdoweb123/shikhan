@@ -1,0 +1,41 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> b7cb4e1d80796a98313415ef7a5d8e797d4f6f04
+/*
+ * Translated default messages for bootstrap-select.
+ * Locale: FA (Farsi)
+ * Region: IR (Iran)
+ */
+(function ($) {
+  $.fn.selectpicker.defaults = {
+    noneSelectedText: 'چیزی انتخاب نشده است',
+    noneResultsText: 'هیج مشابهی برای {0} پیدا نشد',
+    countSelectedText: '{0} از {1} مورد انتخاب شده',
+    maxOptionsText: ['بیشتر ممکن نیست {حداکثر {n} عدد}', 'بیشتر ممکن نیست {حداکثر {n} عدد}'],
+    selectAllText: 'انتخاب همه',
+    deselectAllText: 'انتخاب هیچ کدام',
+    multipleSeparator: ', '
+  };
+})(jQuery);
+<<<<<<< HEAD
+=======
+=======
+/*
+ * Translated default messages for bootstrap-select.
+ * Locale: FA (Farsi)
+ * Region: IR (Iran)
+ */
+(function ($) {
+  $.fn.selectpicker.defaults = {
+    noneSelectedText: 'چیزی انتخاب نشده است',
+    noneResultsText: 'هیج مشابهی برای {0} پیدا نشد',
+    countSelectedText: '{0} از {1} مورد انتخاب شده',
+    maxOptionsText: ['بیشتر ممکن نیست {حداکثر {n} عدد}', 'بیشتر ممکن نیست {حداکثر {n} عدد}'],
+    selectAllText: 'انتخاب همه',
+    deselectAllText: 'انتخاب هیچ کدام',
+    multipleSeparator: ', '
+  };
+})(jQuery);
+>>>>>>> origin/Abdelrahman_shikhan-10
+>>>>>>> b7cb4e1d80796a98313415ef7a5d8e797d4f6f04

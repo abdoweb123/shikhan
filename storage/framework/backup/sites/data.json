@@ -1,0 +1,617 @@
+[
+    {
+        "id" : 1,
+        "title" : "With Prophet",
+        "alias" : "with-prophet",
+        "slug" : {
+            "ar" : "مع-الحبيب",
+            "en" : "with-prophet"
+        },
+        "name" : {
+            "ar" : "مع الحبيب رسول الله صلى الله عليه وسلم أكبر موقع للسيرة النبوية",
+            "en" : "With Prophet is the largest site of the prophetic biography"
+        },
+        "description" : {
+            "ar" : "أكبر موقع وموسوعة عن فضل سيدنا محمد النبي صلى الله عليه وسلم ومولده ونسبه وصفته وشمائله وسيرته ومغازيه وحياته الاجتماعية والسياسية والتعبدية والتربوية والدعوية وهديه وتعامله مع الناس وأصحابه وزوجاته وأهله وحقوقه علينا وواجبنا اتجاهه وكيف نقتدي به؟ وننصر دينه",
+            "en" : "The largest site and encyclopedia is about the virtues of our Prophet Muhammad( peace be upon him) his birth, his description, his qualities, his biography, his physical, social, political, labor, educational, and religious life. In addition, his treatment of people and his companions, his wives and his family, his rights."
+        },
+        "url" : "withprophet.com",
+        "status" : 1,
+        "languages" : ["ar","en"],
+        "logo" : "with-prophet.png"
+    },
+    {
+        "id" : 2,
+        "title" : "With Allah",
+        "alias" : "with-allah",
+        "slug" : {
+            "ar" : "مع-الله",
+            "en" : "with-Allah",
+            "es" : "Mi-Señor-es-Al-lah",
+            "fa" : "پروردگار-من-الله-است",
+            "fr" : "ALLAH-mon-Seigneur",
+            "ha" : "Ubangijina-Allah",
+            "hi" : "मेरा-पालनहार-अल्ल्लाह-है",
+            "id" : "Allah-Tuhanku",
+            "ru" : "Веры-в-Аллаха-With-Allah-С-Аллахом",
+            "sw" : "MOLA-WANGU-NI-ALLAH_with-Allah",
+            "ta" : "எனது-இறைவன்",
+            "tg" : "Парвардигори-ман-Аллоҳ-аст",
+            "tr" : "Benim-Rabbim-Allah’tır",
+            "ur" : "میرا-پروردگار-اللہ-ہے",
+            "zh" : "我的养主是安拉"
+        },
+        "name" : {
+            "ar" : "مع الله: ربي الله – تعرف على الله، حياة القلوب – أسرار أعمال القلوب وأ",
+            "en" : "Iman (Believing) in Allah-with-Allah",
+            "es" : "Mi Señor es Al-lah",
+            "fa" : "پروردگار من الله است",
+            "fr" : "ALLAH mon Seigneur",
+            "ha" : "Ubangijina Allah",
+            "hi" : "मेरा पालनहार अल्ल्लाह है",
+            "id" : "Allah Tuhanku",
+            "ru" : "Веры в Аллаха-With Allah-С Аллахом",
+            "sw" : "MOLA WANGU NI ALLAH_with Allah",
+            "ta" : "எனது இறைவன்",
+            "tg" : "Парвардигори ман Аллоҳ аст",
+            "tr" : "Benim Rabbim Allah’tır",
+            "ur" : "میرا پروردگار اللہ ہے",
+            "zh" : "我的养主是安拉"
+        },
+        "description" : {
+            "ar" : "قوي إيمانك وتعرف على الله وعش معه وتدبر في أسمائه وصفاته وتوحيده، وتعرف على ما يحيي القلوب ويزيد الإيمان وأعمال القلوب وأمراضها، ولنسر في رحلتنا بين الدنيا والآخرة لعلنا نسعد فيهما، مع عدد كبير من الكتب والفيديوهات التي ترفع الإيمان",
+            "en" : "With-Allah website is a doctrine website, helps you know Allah through his Names and attributes, know Allah the only creator and initiator, and it is considered as an invitation to have sincere Iman.",
+            "es" : "Acercar a la gente a Al-lah y hacer que Lo amen a través de conocerlo y enseñar la creencia correcta y su efecto sobre el comportamiento y la moral, usando todos los recursos técnicos y comunicacionales para ello.",
+            "fa" : "نزدیک کردن مردم به خداوند ارجمند و باعظمت و محبوب ساختن اوبه نزد آنان از خلال شناساندن و آموزش عقیده صحیح و  تاثیرآن در سلوک و اخلاق و استفاده از تکنولوژی جدید و وسایل ارتباط جمعی که به این هدف می رسانند.",
+            "fr" : "Rapprochement des gens d’Allah (Gloire à Lui) ,  les pousser à L’aimer en Le leur faisant connaître,  leur apprendre la vraie croyance et ses effets sur les actes et les mœurs",
+            "ha" : "Kusantar da mutane zuwa ga Allah mai girma da buwaya,  da sanya musu son Allah, ta hanyar sanar da su Allah, da koya musu ingantacciyar aqida, da tasirinta a cikin halaye da xabi’u, da amfani da dukkan kafafen yaxa labarai na zamani don isar da wannan saqo.",
+            "hi" : "मेरा पालनहार अल्ल्लाह है",
+            "id" : "Mendekatkan manusia kepada Allah azza wa jalla, dan kecintaan mereka kepada-Nya, melalui pengenalan mereka kepada-Nya, pengajaran mereka tetang aqidah yang benar, dan pengaruhnya dalam perilaku dan akhlak, serta menggunakan semua media tehnologi dan elektronik untuk mencapai hal tersebut",
+            "ru" : "Вера, которая поможет выжить это вера в Бога. Комфорт в душе достигается только через веру в Аллаха. Он Один заслуживает того, что бы Ему поклонялись,и подчинялись,Вера в Аллаха это свет к справедливости, свет к свободе, свет к науке и знаниям, свет к руководству и свет к спокойствию и душевной безопасности.",
+            "sw" : "Yote yanahusu Mungu na sifa zake na majina na haja ya waja kwa Mungu,na maelezo nyingi kuhusu mola na sifa zake",
+            "ta" : "சரியான கோட்பாட்டையும், அவனைப் பற்றி படிப்பதையும், அறிந்து கொள்வதையும் கொண்டு அல்லாஹ்வை மனிதர்கள் விரும்பி நெருங்குகின்றனர். அதந் போக்கிலும் உளத்தூய்மையிலும் அதன் தாக்கம் உள்ளது. தொழில் நுட்பம் மற்றும் ஊடகம் போன்றவற்றைக் கொண்டு உறுதிப்படுத்த வேண்டும்.",
+            "tg" : "Наздик сохтани мардум ба Аллоҳи мутаол ва маҳбуб сохтани Ӯ дар назди онон тавасути шиносонидан ва омӯзиши ақидаи дуруст ва таъсири он дар сулук ва ахлоқ ва истифода аз текноложии муосир ва васоили иртиботи ҷамъӣ, ки ба ин ҳадаф мерасонанд.",
+            "tr" : "İnsanları Allah azze ve celle’ye yaklaştırmak, O’nu tanımalarıyla sevdirmek ve bütün medya ve teknoloji araçlarını kullanarak, onlara doğru inancı ve onun hem davranış hem de ahlak üzerindeki etkilerini öğretmek.",
+            "ur" : "اللہ تعالی کی ذات کا تعارف، صحیح عقائد کی تعلیم، اخلاق و سلوکیات پر عقائد سے پڑنے والے اثرات کے ذکر کے ذریعے لوگوں کو اللہ کے دربار سے قریب کرنا، اور ان کے دلوں میں اللہ کی محبت پیدا کرنا ہے، اور اس مقصد تک پہنچانے والے تمام ٹیکنیکل وسائل اور میڈیا کے استعمال پر اعتماد کیا گیا ہے۔",
+            "zh" : "使人们接近安拉，因对安拉的认识而喜爱安拉，让他们懂得正确的诚信以及它对行为性格的影响。利用所有能达到目的的技术和媒体"
+        },
+        "url" : "with-allah.com",
+        "status" : 1,
+        "languages" : ["ar","en","es","fa","fr","ha","hi","id","ru","sw","ta","tg","tr","ur","zh"],
+        "logo" : "with-allah.png"
+    },
+    {
+        "id" : 3,
+        "title" : "Islamin Korea",
+        "alias" : "islamin-korea",
+        "slug" : {
+            "ko" : "한국의-이슬람"
+        },
+        "name" : {
+            "ko" : "한국의 이슬람"
+        },
+        "description" : {
+            "ko" : "이슬람 공동체와 한국의 무슬림 (한국어 영상과 프로그램 - 이슬람 서적 - 활동 - 한국의 이슬람 성원 - 교양 및 스포츠 대회 - 기사 - 음성 - 할랄 음식점 - 이슬람 웹사이트)"
+        },
+        "url" : "islaminkorea.net",
+        "status" : 0,
+        "languages" : ["ko"],
+        "logo" : "islamin-korea.png"
+    },
+    {
+        "id" : 4,
+        "title" : "Al Feqh",
+        "alias" : "al-feqh",
+        "slug" : {
+            "ar" : "فقه_العبادات_العبادات_في_الإسلام_فيديوهات_فقهية_كتب_إسلاميه",
+            "en" : "Illustrated_Islamic_Law_for_Acts_of_Worship_Al-Fiqh",
+            "bn" : "ফিকহ_al-feqh",
+            "es" : "El_fiqh_de_la_adoración-_Los_5_pilares_del_islam_jurisprudencia_islám",
+            "fa" : "فقه_مصور_عبادات",
+            "fr" : "La_jurisprudence_du_culte,_en_images__Al_Fiqh",
+            "ha" : "Koyar_Da_Ibada_A_Cikin_Hotuna_•",
+            "id" : "Fikih_Ibadah_Bergambar",
+            "am" : "በሥዕል_የተደገፈ_የዕባዳዎች_አፈጻጸም_ፍቅህ",
+            "ru" : "Фикх_поклонений_и_пять_столпо́в_исла́ма_Тахара-_Намаз-_паломничество",
+            "sw" : "Fiqhi_ya_‘Ibada_yenye_picha_zilizochorwa",
+            "tg" : "home___Фиқҳи_мусаввари_ибодот_tg",
+            "zh" : "伊斯兰的功修",
+            "ur" : "ارکان_اسلام_،_عبادات_کی_با_تصویر_فقہ__الفقہ",
+            "ja" : "図解付き信仰行為に関するフィクフ（法学）",
+            "ku" : "Fiqha_Îbadetan_ya_bi_wêne",
+            "tr" : "Resimli_ibadet_fıkhı"
+        },
+        "name" : {
+            "ar" : "فقه العبادات | العبادات في الإسلام | فيديوهات فقهية | كتب إسلاميه",
+            "en" : "Illustrated Islamic Law for Acts of Worship - Al-Fiqh",
+            "bn" : "ফিকহ - al-feqh",
+            "es" : "El fiqh de la adoración- Los 5 pilares del islam -jurisprudencia islám",
+            "fa" : "فقه مصور عبادات",
+            "fr" : "La jurisprudence du culte, en images - Al Fiqh",
+            "ha" : "Koyar Da Ibada A Cikin Hotuna •",
+            "id" : "Fikih Ibadah Bergambar",
+            "am" : "በሥዕል የተደገፈ የዕባዳዎች አፈጻጸም ፍቅህ",
+            "ru" : "Фикх поклонений и пять столпо́в исла́ма -Тахара- Намаз- паломничество",
+            "sw" : "Fiqhi ya ‘Ibada yenye picha zilizochorwa",
+            "tg" : "home _ Фиқҳи мусаввари ибодот tg",
+            "zh" : "伊斯兰的功修",
+            "ur" : "ارکان اسلام ، عبادات کی با تصویر فقہ - الفقہ",
+            "ja" : "図解付き信仰行為に関するフィクフ（法学）",
+            "ku" : "Fiqha Îbadetan ya bi wêne",
+            "tr" : "Resimli ibadet fıkhı"
+        },
+        "description" : {
+            "ar" : "موسوعة فقه العبادات المصور أكبر موسوعة فقهية لتيسير وتعليم أحكام الإسلام .تحتوي على أحكام الطهارة في الإسلام وأحكام الصلاة والصيام وأحكام الزكاة في الإسلام والحج والعمرة ويشتمل قسم فتاوي إسلامية يجيب على أسئلتك الحائرة",
+            "en" : "Al-Fiqh site explains Islamic jurisprudence as revealed in Quran and Sunnah. It illustrates Islamic Law for Acts of Worship such as Prayer, Zakat, Fasting, Hajj, and Purification. In al-Feqh you can also find Islamic books, audios, and videos.",
+            "bn" : "Al-feqh - মুসলিম ব্যক্তি তাঁর দৈনন্দিন জীবনের সকল বিষয়ে ইসলামি শরীয়তের বিধি-বিধান ও ইসলামি সমাধান জানার জন্য একটি গুরুত্বপূর্ণ ওয়েবসাইট, এতে রয়েছে: পবিত্রতা, নামাজ, রোজা, যাকাত, হজ ও দৈনন্দিন জীবনের প্রয়োজনীয় সব মাসআলা মাসায়েল এবং সমকালীন সমস্যাবলীর ইসলামি সমাধান।",
+            "es" : "El Fiqh de la adoración con imágenes,El sitio de Al-Feqh explica la jurisprudencia islámica tal como se revela en el Corán y la Sunnah. Ilustra la ley islámica para los actos de adoración como la oración, el zakat, el ayuno, el Hayy y la purificación. En al-Feqh también puede encontrar libros, audios y videos islámicos",
+            "fa" : "آسان سازى وآموزش احكام اسلام, فقه مصور عبادات",
+            "fr" : "Le site Al-Fiqh explique la jurisprudence islamique telle que révélée dans le Coran et la Sunna. Il illustre la loi islamique pour les actes de culte tels que la prière, la zakat, le jeûne, le Hajj et la purification. Dans al-Fiqh, vous pouvez également trouver des livres islamiques, des audios et des vidéos en différentes langues.",
+            "ha" : "Fiqihun ibada a cikin hotuna, Karantar da hukunce-hukuncen musulunci a sauqaqe, cikakkiyar manhaja ce ta koyarda ibada ga xaixaikun mutane, da wajen taruwan mata da qungiyoyi da cibiyoyi da  makarantu da sauransu.",
+            "id" : "Fiqh ibadah bergambar, Memudahkan pengajaran hokum-hukum Islam, Fikih Ibadah Bergambar",
+            "am" : "በሥዕል የተደገፈ የዕባዳዎች አፈጻጸም ፍቅህ, በሥዕል የተደገፈ የዕባዳዎች አፈጻጸም ፍቅህ",
+            "ru" : "Самый лучший сайт о фикхе Ислама. Сайт объясняет положения очищения и столпы Ислама: молитву в Исламе, пост Рамадан, закят (объязательную садаку)",
+            "sw" : "Tovuti ya Al-Fiqh inaelezea sheria za Kiislam kama ilivyofunuliwa katika Quran na Sunnah. Inaonyesha Sheria ya Kiislamu kwa Matendo ya ibada kama vile Sala, Zakat, Kufunga, Hajj, na Utakaso. Katika al-Feqh unaweza pia kupata vitabu vya Kiislamu, sauti na video",
+            "tg" : "Фиқҳи мусаввари ибодот, Осонсозӣ ва омӯзиши аҳкоми Ислом",
+            "zh" : "伊斯兰的功修, 伊斯兰法学功修部分教律浅释",
+            "ur" : "الفقہ سائٹ اسلامی فقہیت کی وضاحت کرتا ہے جیسا کہ قرآن و سنت میں نازل ہوا ہے... یہ نماز ، زکات ، روزہ، حج، اور پاکی جیسےعبادت کے لئے اسلامی قانون کی وضاحت کرتا ہے ، ، الفقہ میں آپ کو اسلامی کتابیں، آڈیو اور ویڈیو بھی مل سکتی ہیں....",
+            "ja" : "図解付き信仰行為に関するフィクフ（法学）",
+            "ku" : "Fiqha Îbadetan ya bi wêne",
+            "tr" : "Resimli ibadet fıkhı, Islamın hükümlerini öğretme ve kolaylaştırma"
+        },
+        "url" : "al-feqh.com",
+        "status" : 1,
+        "languages" : ["ar","en","bn","es","fa","fr","ha","id","am","ru","sw","tg","zh","ur","ja","ku","tr"],
+        "logo" : "al-feqh.png"
+    },
+    {
+        "id" : 5,
+        "title" : "Ba Hammam",
+        "alias" : "ba-hammam",
+        "slug" : {
+            "ar" : "موقع-الدكتور-عبد-الله-سالم-باهمام"
+        },
+        "name" : {
+            "ar" : "موقع الدكتور عبد الله سالم باهمام"
+        },
+        "description" : {
+            "ar" : "اهمية الاعلام وتعريف التسويق وتسويق الافكاروتحويل الافكار الى مشاريع وتعريف الجمعيات الخيرية والاستعانة بالله والتوكل عليه."
+        },
+        "url" : "ba-hammam.com",
+        "status" : 0,
+        "languages" : ["ar"],
+        "logo" : "ba-hammam.png"
+    },
+    {
+        "id" : 6,
+        "title" : "Cambodia Light",
+        "alias" : "cambodia-light",
+        "slug" : {
+            "km" : "ទំព័រដើម"
+        },
+        "name" : {
+            "km" : "ទំព័រដើម"
+        },
+        "description" : {
+            "km" : "ស្សន៍ពន្លឺកម្ពុជាយកចិត្តទុកដាក់ ចំពោះតម្រូវការរបស់មនុស្សដើម្បីឱក្នុងន័យពង្រឹងដល់សម្លេងសហគមន៍អ៊ីស្លាមកម្ពុជាឱ្យបានលឺដល់គ្រប់សហគមន៍ទាំងអស"
+        },
+        "url" : "cambodialight.tv",
+        "status" : 0,
+        "languages" : ["km"],
+        "logo" : "cambodia-light.png"
+    },
+    {
+        "id" : 7,
+        "title" : "Lumiere TV",
+        "alias" : "lumiere-tv",
+        "slug" : {
+            "en": "TV-light",
+            "fr" : "Lumière-TV"
+        },
+        "name" : {
+            "en": "TV light",
+            "fr" : "Lumière TV"
+        },
+        "description" : {
+            "fr" : "lumière tv La lumière de ta vie",
+            "en" : "light tv The light of your life"
+        },
+        "url" : "lumiere-tv.com",
+        "status" : 0,
+        "languages" : ["fr","en"],
+        "logo" : "lumiere-tv.png"
+    },
+    {
+        "id" : 8,
+        "title" : "Islam Kingdom",
+        "alias" : "islam-kingdom",
+        "slug" : {
+            "ar" : "مملكة-الإسلام-القرآن-الكريم",
+            "bn" : "ইসলাম-বাংলা",
+            "es" : "Sagrado-Corán_La-jurisprudencia",
+            "fa" : "islamkingdom-farisy_مقدمه-ای-در-اسلام",
+            "fr" : "Royaume-de-lIslam_IslamKingdom",
+            "ha" : "tarjama-Quran_Fikihu_Koyaswa-da-Tawhid",
+            "id" : "Terjemahan-quran_Doktrin-dan-Tauhid",
+            "am" : "islamkingdom-የቅዱስ-ቁርዓን-አማርኛ-ትርጉም_በሥዕል-የተደገፈ_ተውሒድ-ማብራራት።",
+            "ru" : "ислам-мир-ислама-столпы-ислама",
+            "sw" : "kingdom-wa-Uislamu-uisalamu",
+            "tg" : "Қуръон-Тарҷумаи_тавҳид-ва-ақида",
+            "en" : "Islam-Kingdom",
+            "yo" : "suuratul-fatiha-abu-rahimah-mikael-aykyuni",
+            "zh" : "伊斯兰教_古兰经_伊斯兰的功修_知道关于伊斯兰教",
+            "de" : "die-eröffnende-abu-rida",
+            "ur" : "ترجمہ-قرآن-مجید_فقه_اور-مجموعی-کے-اصول",
+            "tr" : "Kuran_Tevhid_fiqh",
+            "dv" : "އަލް-ފާތިޙާ-ދިވެހި",
+            "it" : "Quran-Traduzione_Conoscere-il-vero-lIslam",
+            "hi" : "इस्लाम-साम्राज्य",
+            "ja" : "イスラーム王国",
+            "ko" : "개경장-무함마드-수하임-교수-a-지음",
+            "ms" : "pembukaan-basmeih",
+            "no" : "åpningsbønnen-einar-berg",
+            "pl" : "sura-al-fatiha-otwierająca-bielawskiego",
+            "pt" : "a-abertura-el-hayek",
+            "ro" : "sura-fatiha-deschidere-grigore",
+            "sd" : "sura-otwierająca-امروٽي",
+            "so" : "surah-al-fatiha-so-abduh",
+            "sv" : "al-fatihah-ingressen-bernström",
+            "ta" : "Islam-Kingdom",
+            "th" : "สูเราะฮฺ-อัล-ฟาติหะฮฺ-ภาษาไทย",
+            "uz" : "fotiha-surasi-мухаммад-содик",
+            "tt" : "фатихә-сүрәсе-аять-yakub-ibn-nugman",
+            "cs" : "oteviratelka-knihy-al-fátiha-hrbek",
+            "bs" : "al-fatiha-pristup-mekka-ajeta-korkut",
+            "az" : "фотиҳа-الفاتحة-məmmədəliyev-bünyadov",
+            "ku" : "Quranê_Fiqha",
+            "as" : "سۈرە-پاتىھە-assamese_rafeeq",
+            "kk" : "al-fatihah-kazakh-altai",
+            "km" : "អាល់ហ្វាទីហះ-ហ្សាការីយ៉ា-អាដាម",
+            "ml" : "ഫാതിഹ-അബ്ദുല്-ഹമീദ്-പറപ്പൂര്",
+            "ne" : "inleiding-gegeven-te-mekka-verzen-nepali_central",
+            "nl" : "inleiding-gegeven-te-mekka-7-verzen-keyzer",
+            "ps" : "الفاتحة-pashto_zakaria",
+            "si" : "الۡفَاتِحَۃِ-sinhalese_mahir",
+            "sq" : "el-fatiha-sherif-ahmeti",
+            "te" : "సూరా-అల్-ఫాతిహా-telugu_muhammad",
+            "tl" : "kabanata-al-f-atihah-ang-pambungad-tagalog_rwwad",
+            "ug" : "پاتىھە-محمد-صالح",
+            "uk" : "al-fatihah-ukrainian-yakubovych",
+            "vi" : "al-fatihah-vietnamese-hassan",
+            "mr" : "सूरा-अल्-फ़ातिह़ा-marathi_ansari",
+            "gu" : "સૂરહ-ફાતિહહ્-gujarati_omari",
+            "om" : "al-fatihah-oromo-ababor"
+        },
+        "name" : {
+            "ar" : "مملكة الإسلام | القرآن الكريم",
+            "bn" : "ইসলাম | বাংলা",
+            "es" : "Sagrado Corán -La jurisprudencia",
+            "fa" : "islamkingdom farisy - مقدمه ای در اسلام",
+            "fr" : "Royaume de l&#039;Islam - IslamKingdom",
+            "ha" : "tarjama Quran -Fikihu -Koyaswa da Tawhid",
+            "id" : "Terjemahan quran - Doktrin dan Tauhid",
+            "am" : "islamkingdom-የቅዱስ ቁርዓን አማርኛ ትርጉም- በሥዕል የተደገፈ -ተውሒድ ማብራራት።",
+            "ru" : "ислам | мир ислама |столпы ислама",
+            "sw" : "kingdom wa Uislamu | uisalamu",
+            "tg" : "Қуръон Тарҷумаи- тавҳид ва ақида",
+            "en" : "Islam Kingdom",
+            "yo" : "suuratul-fatiha-abu-rahimah-mikael-aykyuni",
+            "zh" : "伊斯兰教 - 古兰经 - 伊斯兰的功修 -知道关于伊斯兰教",
+            "de" : "die-eröffnende-abu-rida",
+            "ur" : "ترجمہ قرآن مجید - فقه- اور مجموعی کے اصول",
+            "tr" : " Kuran - Tevhid - fiqh",
+            "dv" : "އަލް-ފާތިޙާ-ދިވެހި",
+            "it" : "Quran Traduzione- Conoscere il vero l&#039;Islam",
+            "hi" : "इस्लाम साम्राज्य",
+            "ja" : "イスラーム王国",
+            "ko" : "개경장-무함마드-수하임-교수-a.-지음",
+            "ms" : "pembukaan-basmeih",
+            "no" : "åpningsbønnen-einar-berg",
+            "pl" : "sura-al-fatiha-otwierająca-bielawskiego",
+            "pt" : "a-abertura-el-hayek",
+            "ro" : "sura-fatiha-deschidere-grigore",
+            "sd" : "sura-otwierająca-امروٽي",
+            "so" : "surah-al-fatiha-so-abduh",
+            "sv" : "al-fatihah-ingressen-bernström",
+            "ta" : "Islam Kingdom",
+            "th" : "สูเราะฮฺ-อัล-ฟาติหะฮฺ-ภาษาไทย",
+            "uz" : "fotiha-surasi-мухаммад-содик",
+            "tt" : "фатихә-сүрәсе-аять-yakub-ibn-nugman",
+            "cs" : "oteviratelka-knihy-al-fátiha-hrbek",
+            "bs" : "al-fatiha-pristup-mekka-ajeta-korkut",
+            "az" : "фотиҳа-الفاتحة-məmmədəliyev-bünyadov",
+            "ku" : "Qur&#039;anê -Fiqha",
+            "as" : "سۈرە-پاتىھە-assamese_rafeeq",
+            "kk" : "al-fatihah-kazakh-altai",
+            "km" : "អាល់ហ្វាទីហះ-ហ្សាការីយ៉ា-អាដាម",
+            "ml" : "ഫാതിഹ-അബ്ദുല്-ഹമീദ്-പറപ്പൂര്",
+            "ne" : "inleiding-gegeven-te-mekka.-verzen-nepali_central",
+            "nl" : "inleiding-gegeven-te-mekka.-7-verzen--keyzer",
+            "ps" : "الفاتحة-pashto_zakaria",
+            "si" : "الۡفَاتِحَۃِ-sinhalese_mahir",
+            "sq" : "el-fatiha-sherif-ahmeti",
+            "te" : "సూరా-అల్-ఫాతిహా-telugu_muhammad",
+            "tl" : "kabanata-al-f-atihah-ang-pambungad-tagalog_rwwad",
+            "ug" : "پاتىھە-محمد-صالح",
+            "uk" : "al-fatihah-ukrainian-yakubovych",
+            "vi" : "al-fatihah-vietnamese-hassan",
+            "mr" : "सूरा-अल्-फ़ातिह़ा-marathi_ansari",
+            "gu" : "સૂરહ-ફાતિહહ્-gujarati_omari",
+            "om" : "al-fatihah-oromo-ababor"
+        },
+        "description" : {
+            "ar" : "قدم لكم في موقع مملكة الإسلام الكثير من المسائل الهامة الفقهية والقرآن الكريم لأشهر القراء وتفسير القرآن بالإضافة لأكبر موسوعة من الحكم والأمثال والأقوال المأثورة والأوائل في عدة مجالات",
+            "bn" : "ইসলাম কিংডম হলো বিশ্বের বিভিন্ন ভাষায় ইসলামি দাওয়াতের অন্যতম বড় ওয়েবসাইট। এতে রয়েছে ইসলাম পরিচিতি, ফিকহ, আকিদা ও তাওহীদ অধ্যায়, আল কুরআনের অনুবাদ এবং অডিও ভিডিও কুরআন তিলাওয়াত, ইসলামী বই এবং অডিও ভিডিও আলোচনা, ইসলামিক অ্যাপস, ও বিবিধ।",
+            "es" : "islamkingdom -Sagrado Corán -La jurisprudencia -Unificación y credo",
+            "fa" : "islamkingdom farisy - مقدمه ای در اسلام",
+            "fr" : "IslamKingdom est le plus grand site de la dawah islamique dans les langues du monde. Il contient fiqh, le droit islamique illustré pour les actes de culte, des informations sur l'islam, Doctrine et Tawhid, la traduction du coran, la vidéo et le coran mp3, ainsi que des livres, des audios, des vidéos, des applications islamiques, etc.",
+            "ha" : "islamkingdom - tarjama Quran -Fikihu - Koyaswa da Tawhid",
+            "id" : "islamkingdom - Terjemahan quran - Doktrin dan Tauhid -Pengantar Islam - Yurisprudensi",
+            "am" : "islamkingdom-የቅዱስ ቁርዓን አማርኛ ትርጉም-  በሥዕል የተደገፈ -ተውሒድ ማብራራት።",
+            "ru" : "islam kingdom - это новый исламский сайт про ислам, мусульман и не только. Столпы ислама, фикх, таухид, акыда, намаз, хадж и многое другое.",
+            "sw" : "Haukupita mda mrefu mpaka uisalamu ulienea ulimwengu mzima,kwa sababu ni dini inayo athiri kwa wanaosilimu. Leo uislamu imekuwa ndio dini ya kwanza inayo enea kwa kasi ulimwenguni mpaka imefikia idadi ya waislamu kulingana na takwimu ya karibu 23,2% sawa na Bilioni na milioni mia saba na bado iko katika kuzidi na kuendelea ikilinganiswha na dini nyinginezo.",
+            "tg" : "islamkingdom - Қуръон Тарҷумаи- тавҳид ва ақида...",
+            "en" : "IslamKingdom is the biggest website for Islamic dawah in world languages. It contains fiqh , Illustrated Islamic Law for Acts of Worship, know about islam , Doctrine_and_Tawhid ,quran translation, video and quran mp3, It also contain Islamic books, audios,videos, Islamic apps and others.",
+            "yo" : "1-suuratul-fatiha-saad-al-ghamdi-Ní orúkọ Allāhu, Àjọkẹ́-ayé, Àṣàkẹ́-ọ̀run.",
+            "zh" : "伊斯兰教 - 古兰经 - 伊斯兰的功修 -知道关于伊斯兰教....",
+            "de" : "1-die-eröffnende-saad-al-ghamdi-Im Namen Allahs, des Allerbarmers, des Barmherzigen!",
+            "ur" : "islamkingdom - ترجمہ قرآن مجید - فقه- اور مجموعی کے اصول",
+            "tr" : "islamkingdom - Kuran - Tevhid - fiqh",
+            "dv" : "1-އަލް-ފާތިޙާ-saad-al-ghamdi-رحمن ވަންތަ رحيم ވަންތަ اللَّه ގެ اسم ފުޅުން ފަށައިގަންނަމެވެ.",
+            "it" : "islamkingdom - Quran Traduzione- Conoscere il vero l'Islam",
+            "hi" : "इस्लामकहद दुनिया की भाषाओं में इस्लामी दाव के लिए सबसे बड़ी वेबसाइट है। इसमें फ़िक़ह, इलस्ट्रेटेड इस्लामिक लॉ फ़ॉर एक्ट्स ऑफ़ उपासना, इस्लाम के बारे में, Doctrine_and_Tawhid, कुरान अनुवाद, वीडियो और क़ुरान एमपी 3 के बारे में जानते हैं। इसमें इस्लामी किताबें, ऑडियो, वीडियो, इस्लामी ऐप और अन्य भी शामिल हैं।",
+            "ja" : "イスラーム王国",
+            "ko" : "1-개경장-saad-al-ghamdi-자비로우시고 자애로우신 하나님의 이름으로",
+            "ms" : "1-pembukaan-saad-al-ghamdi-Dengan nama Allah, Yang Maha Pemurah, lagi Maha Mengasihani.",
+            "no" : "1-åpningsbønnen-saad-al-ghamdi-I Guds, den Barmhjertiges, den Nåderikes navn",
+            "pl" : "1-sura-al-fatiha-otwierająca-saad-al-ghamdi-W Imię Boga Miłosiernego i Litościwego!",
+            "pt" : "1-a-abertura-saad-al-ghamdi-Em nome de Deus, o Clemente, o Misericordioso.",
+            "ro" : "1-sura-fatiha-deschidere-saad-al-ghamdi-În numele lui Dumnezeu cel Milos şi Milostiv.",
+            "sd" : "1-sura-otwierająca-saad-al-ghamdi-الله ٻاجھاري مھربان جي نالي سان (شروع)",
+            "so" : "1-surah-al-fatiha-saad-al-ghamdi-Magaca Eebe yaan kubillaabaynaa ee Naxariis guud iyo mid gaaraba Naxariista.",
+            "sv" : "1-al-fatihah-ingressen-saad-al-ghamdi-I GUDS, DEN NÅDERIKES, DEN BARMHÄRTIGES NAMN",
+            "ta" : "உலக மொழிகளில் இஸ்லாமிய தவாவிற்கான மிகப்பெரிய வலைத்தளம் இஸ்லாம் இராச்சியம். இது ஃபிக், வழிபாட்டுச் செயல்களுக்கான விளக்க இஸ்லாமிய சட்டம், இஸ்லாம், கோட்பாடு_ஆன்_தாவித், குர்ஆன் மொழிபெயர்ப்பு, வீடியோ மற்றும் குர்ஆன் எம்பி 3 பற்றி அறிந்திருக்கிறது, இதில் இஸ்லாமிய புத்தகங்கள், ஆடியோக்கள், வீடியோக்கள், இஸ்லாமிய பயன்பாடுகள் மற்றும் பலவும் உள்ளன.",
+            "th" : "1-สูเราะฮฺ-อัล-ฟาติหะฮฺ-saad-al-ghamdi-ด้วยพระนามของอัลลอฮฺ ผู้ทรงกรุณาปราณี ผู้ทรงเมตตาเสมอ",
+            "uz" : "1-fotiha-surasi-saad-al-ghamdi-Меҳрибон ва раҳмли Аллоҳнинг номи билан бошлайман. (Аллоҳ таоло ўз китобини \"бисмиллаҳ\" билан бошлагани мусулмонларга ҳам ўрнак, улар ҳам доим ўз сўзларини ва ишларини \"бисмиллаҳ\"...",
+            "tt" : "1-фатихә-сүрәсе-аять-saad-al-ghamdi-Рәхимле шәфкатьле Аллаһ исеме белән башлыйм эшемне.",
+            "cs" : "1-oteviratelka-knihy-al-fátiha-saad-al-ghamdi-Ve jménu Boha milosrdného, slitovného.",
+            "bs" : "1-al-fatiha-pristup-mekka-ajeta-saad-al-ghamdi-U ime Allaha, Milostivog, Samilosnog!",
+            "az" : "1-фотиҳа-الفاتحة-saad-al-ghamdi-Mərhəmətli, rəhmli Allahın adı ilə!",
+            "ku" : "islamkingdom -Qur'anê -Fiqha",
+            "as" : "1-سۈرە-پاتىھە-saad-al-ghamdi-(আৰম্ভ কৰিছো) পৰম কৰুণাময় পৰম দয়ালু আল্লাহৰ নামত",
+            "kk" : "1-al-fatihah-saad-al-ghamdi- Аса қамқор, ерекше мейірімді Алланың атымен бастаймын. ",
+            "km" : "1-អាល់ហ្វាទីហះ-saad-al-ghamdi-ក្នុងនាមអល់ឡោះ មហាសប្បុរស មហាអាណិតស្រលាញ់",
+            "ml" : "1-ഫാതിഹ-saad-al-ghamdi-പരമകാരുണികനും കരുണാനിധിയുമായ അല്ലാഹുവിന്റെ നാമത്തില്‍ .",
+            "ne" : "1-inleiding-gegeven-te-mekka.-verzen-saad-al-ghamdi-१) शुर गर्दछु अल्लाहको नामबाट जो अत्यन्त दयालु र अति कृपालु छ ।",
+            "nl" : "1.-inleiding-gegeven-te-mekka.-7-verzen--saad-al-ghamdi-In naam van den lankmoedigen en albarmhartigen God.",
+            "ps" : "1-الفاتحة-saad-al-ghamdi-1-1 د الله په نامه سره (شروع كوم) چې ډېر زيات مهربان، بې حده رحم كوونكى دى",
+            "si" : "1-الۡفَاتِحَۃِ-saad-al-ghamdi-අපරිමිත දයාන්විත අසමසම කරුණාන්විත අල්ලාහ් ගේ නාමයෙන",
+            "sq" : "1-el-fatiha-saad-al-ghamdi-Me emrin e All-llahut, Mëshiruesit, Mëshirëbërësit!",
+            "te" : "1-సూరా-అల్-ఫాతిహా-saad-al-ghamdi-అనంత కరుణామయుడు అపార కరుణా ప్రదాత అయిన అల్లాహ్ పేరుతో",
+            "tl" : "1-kabanata-al-f-atihah-ang-pambungad-saad-al-ghamdi-Sa ngalan ni Allāh, ang Napakamaawain, ang Maawain. ",
+            "ug" : "1-پاتىھە-saad-al-ghamdi-ناھايىتى شەپقەتلىك ۋە مېھرىبان اﷲ نىڭ ئىسمى بىلەن باشلايمەن",
+            "uk" : "1-al-fatihah-saad-al-ghamdi-Ім’ям Аллага Милостивого, Милосердного ",
+            "vi" : "1-al-fatihah-saad-al-ghamdi-Nhân danh Allah(1), Đấng Rất Mực Độ Lượng, Đấng Rất Mực Khoan Dung(2) ",
+            "mr" : "1-सूरा-अल्-फ़ातिह़ा-saad-al-ghamdi-१.  अल्लाहच्या नावाने आरंभ करतो, जो मोठा कृपावान आणि अतिशय दया करणारा आहे.",
+            "gu" : "1-સૂરહ-ફાતિહહ્-saad-al-ghamdi-અલ્લાહ ના નામથી જે અત્યંત કૃપાળુ અને દયાળુ છે.",
+            "om" : "1-al-fatihah-saad-al-ghamdi-Maqaa Rabbii Akkaan Mararfataa Akkaan Rahmata Godhaa Ta’eetiin "
+        },
+        "url" : "islamkingdom.com",
+        "status" : 1,
+        "languages" : ["ar","bn","es","fa","fr","ha","id","am","ru","sw","tg","en","yo","zh","de","ur","tr","dv","it","hi","ja","ko","ms","no","pl","pt","ro","sd","so","sv","ta","th","uz","tt","cs","bs","az","ku","as","kk","km","ml","ne","nl","ps","si","sq","te","tl","ug","uk","vi","mr","gu","om"],
+        "logo" : "islam-kingdom.png"
+    },
+    {
+        "id" : 9,
+        "title" : "Japan Light",
+        "alias" : "japan-light",
+        "slug" : {
+            "ja" : "日本光チャネル"
+        },
+        "name" : {
+            "ja" : "日本光チャネル"
+        },
+        "description" : {
+            "ja" : "光テレビは人の気を日本 &#039; イスラムの穏健派の宗教を実現、確実、そのステレオタイプのいくつかを修正する必要があります、"
+        },
+        "url" : "japanlight.tv",
+        "status" : 0,
+        "languages" : ["ja"],
+        "logo" : "japan-light.png"
+    },
+    {
+        "id" : 10,
+        "title" : "Korea Light",
+        "alias" : "korea-light",
+        "slug" : {
+            "ko" : "코리아라이트-채널"
+        },
+        "name" : {
+            "ko" : "코리아라이트 채널"
+        },
+        "description" : {
+            "ko" : "이슬람 공동체와 한국의 무슬림 (한국어 영상과 프로그램 - 이슬람 서적 - 활동 - 한국의 이슬람 성원 - 교양 및 스포츠 대회 - 기사 - 음성 - 할랄 음식점 - 이슬람 웹사이트)"
+        },
+        "url" : "korealight.tv",
+        "status" : 0,
+        "languages" : ["ko"],
+        "logo" : "korea-light.png"
+    },
+    {
+        "id" : 11,
+        "title" : "Path To Happiness",
+        "alias" : "path-2-happiness",
+        "slug" : {
+            "id" : "Jalan-menuju-kebahagiaan",
+            "en" : "happiness-what-is-happiness-How-to-be-happy",
+            "es" : "El-Camino-de-la-Felicidad",
+            "it" : "La-strada-per-la-felicità",
+            "sw" : "Njia-yenye-kufikisha-kwenye-furaha",
+            "ru" : "Путь-к-счастью-счастье-суть-счастья-обрести-счастье-path-to-happ",
+            "ar" : "الطريق-الى-السعادة",
+            "fa" : "مسیر-خوشبختی",
+            "hi" : "प्रसन्नता-का-मार्ग",
+            "bn" : "শান্তির-পথ",
+            "ta" : "happiness-what-is-happiness-How-to-be-happy",
+            "am" : "ለደስተኝነት-የሚያበቃ-መንድ",
+            "zh" : "通往幸福的路"
+        },
+        "name" : {
+            "id" : "Jalan menuju kebahagiaan",
+            "en" : "happiness-what is happiness-How to be happy",
+            "es" : "El Camino de la Felicidad",
+            "it" : "La strada per la felicità",
+            "sw" : "Njia yenye kufikisha kwenye furaha",
+            "ru" : "Путь к счастью | счастье |суть счастья |обрести счастье • path to happ",
+            "ar" : "السعادة | الطريق الى السعادة",
+            "fa" : "مسیر خوشبختی",
+            "hi" : "प्रसन्नता का मार्ग",
+            "bn" : "শান্তির পথ",
+            "ta" : "happiness-what is happiness-How to be happy",
+            "am" : "ለደስተኝነት የሚያበቃ መንድ",
+            "zh" : "通往幸福的路"
+        },
+        "description" : {
+            "ar" : "السعادة هي الشيء الوحيد الذي يتفق جميع الناس في البحث عنه، وها هو موقع الطريق إلى السعادة يضع اللبنة الأولى للتعرف على طريق السعاده الأبدية في الدنيا والآخرة ",
+            "am" : "የደስተኛነት መንገድ,የደስተኝነት ውይይቶች,ልቦለድ,አስረጅ",
+            "bn" : "শান্তির পথ , শান্তির পথ, শান্তির সংলাপ, প্রমাণাদি, সাধারণ",
+            "en" : "What is happiness and how to be happy. we aims to the only path for eternal happiness through showing some experiences and quotes of leaders and sages and celebrities and The most positive ways that make you happy. • path to happy",
+            "es" : "EL CAMINO DE LA FELICIDAD,LOS DIÁLOGOS DE LA FELICIDAD,LA NOVELA DE LA FELICIDAD,TESTIMONIOS,LIBROS,VIDEOS",
+            "fa" : "راه خوشبختی,گفتگوی مسیر خوشبختی,داستان راه خوشبختی,شواهد,کتابها",
+            "hi" : "प्रसन्नता का मार्ग, दृढ़ मार्ग, अर्थात् प्रसन्नता के मार्ग की ओर ले जानेवाले विचार ।",
+            "id" : "BUKU,NOVEL,DIALOG,JALAN KEBAHAGIAAN",
+            "it" : "IL CAMMINO VERSO LA FELICITÀ,CONVERSAZIONI SULLA FELICITÀ, ROMANZO",
+            "ru" : "СЧАСТЬЕ?... А ЕСТЬ ЛИ ОНО? ... Каждый из нас желает обрести счастье. Где оно? Где искать? Сделай первый шаг на ПУТЬ К СЧАСТЬЮ... • path to happy",
+            "sw" : ", Ongeza kwenye maktaba yako Vitabu vya dini na imani za dini na Vitabu vya maktaba katika vitabu vya dini na imani ili kusoma na kupakua vitabu kwa bure",
+            "zh" : "幸福的道路,幸福的讨论,小说幸福之路,名言,图书,视频"
+        },
+        "url" : "path-2-happiness.com",
+        "status" : 1,
+        "languages" : ["ar","am","bn","en","es","fa","hi","id","it","ru","sw","zh"],
+        "logo" : "path-2-happiness.png"
+    },
+    {
+        "id" : 12,
+        "title" : "Global Minbar",
+        "alias" : "global-minbar",
+        "slug" : {
+            "bn" : "গ্লোবাল-মিম্বার-বাংলা",
+            "es" : "El-Minbar-Global-Sermones-islámicos-Vídeos-islámicos-Libros-islámicos",
+            "fa" : "منبر-جهاني-مفاهیم-اساسی-اسلام-عقيده-و-ايمان",
+            "fr" : "Latribune-mondiale-Domaine-de-la-foi-Domaine-social-domaine-des-médias",
+            "ha" : "minbarin-duniya-fagen-imani-fagen-zamantakewa-",
+            "id" : "-Dunia-Minbar-Keimanan-Ibadah-Momentum-Etika-dan-Akhlaq",
+            "ru" : "Всемирный-минбар-Иман-(Вера)-Отношения-в-обществе-Призыв-и-увещевание",
+            "sw" : "MINBARI-YA-ULIMWENGU_Sehemu-ya-Imani_Sehemu-ya-Jamii",
+            "tg" : "МИНБАРИ-ҶАҲОНӢ-Бахши-ақида-ва-имон-Бахши-равобити-иҷтимоъӣ",
+            "ur" : "عالمی-منبر",
+            "yo" : "Munbari-Agbaye-Abala-igbagbo-Abala-ibasepo-lawujo-",
+            "zh" : "穆斯林讲坛"
+        },
+        "name" : {
+            "bn" : "গ্লোবাল মিম্বার বাংলা",
+            "es" : "El Minbar Global |Sermones islámicos |Vídeos islámicos |Libros islámicos",
+            "fa" : "منبر جهاني | مفاهیم اساسی اسلام | عقيده و ايمان",
+            "fr" : "Latribune mondiale|Domaine de la foi|Domaine social|domaine des médias",
+            "ha" : "minbarin duniya|fagen imani|fagen zamantakewa ",
+            "id" : " Dunia Minbar|Keimanan|Ibadah| Momentum|Etika dan Akhlaq",
+            "ru" : "Всемирный минбар|Иман (Вера)|Отношения в обществе|Призыв и увещевание",
+            "sw" : "MINBARI YA ULIMWENGU_Sehemu ya Imani_Sehemu ya Jamii",
+            "tg" : "МИНБАРИ ҶАҲОНӢ|Бахши ақида ва имон|Бахши равобити иҷтимоъӣ",
+            "ur" : "عالمی منبر",
+            "yo" : "Munbari Agbaye | Abala igbagbo | Abala ibasepo lawujo ",
+            "zh" : "穆斯林讲坛"
+
+        },
+        "description" : {
+            "bn" : "গ্লোবাল মিম্বার বাংলা",
+            "es" : "leer sermones islamicos y artículos y ver videos islamicos.Hay Temas de Moral,la fe,fiestas islámicas.hay Audios,videos y libros del islam,sobre el Profeta",
+            "fa" : "برنامه ي منبر جهاني در راستای تبلیغ وانتشار مفاهیم اساسی اسلام باتعدادي از زبانهاي زنده دنیا منتشر شده كه 60 خطبه را دربر می گیرد(ويديو - متن – تصویر)",
+            "fr" : "Latribune mondiale: Domaine de la foi , Domaine social , domaine des médias, Domaine de la conduit , Domaine cultuel ",
+            "ha" : "minbarin duniya : fagen imani , fagen zamantakewa , fagan yaxa da&#039;awa , fagen suluki , fagan ibada , fagen munasabobi",
+            "id" : "Dunia Minbar : Keimanan , Sosial , Media Massa &amp; Informasi , Etika dan Akhlaq , Ibadah , Momentum",
+            "ru" : "Всемирный минбар : Иман (Вера),Отношения в обществе , Призыв и увещевание , Мораль и нравственность , Поклонение , праздники и разные события",
+            "sw" : "MINBARI YA ULIMWENGU : Sehemu ya Imani , Sehemu ya Jamii , Sehemu ya Utangazaji , Sehemu ya Tabia , Sehemu ya Ibada , Sehemu ya Misimo",
+            "tg" : "МИНБАРИ ҶАҲОНӢ : Бахши ақида ва имон  , Бахши равобити иҷтимоъӣ , Бахши таблиғ ва даъват , Бахши ахлоқ ва тарбият , Бахши аҳком ва ибодот , Бахши муносибатҳо",
+            "ur" : "عالمی منبر  : باب ایمان , باب معاشرت , باب میڈیا , باب سلوک , باب عبادات , باب تقریبات",
+            "yo" : "Munbari Agbaye : Abala igbagbo , Abala ibasepo lawujo , Abala ifunni niro , Abala iwa , Abala ijosin , Abala ti akojopo",
+            "zh" : "伊斯兰网站，它的目的是传达关于伊斯兰的正确信息.穆斯林讲坛, 演讲 ,伊斯兰教 , 毒品的危害 , 古尔邦节 , 祷，先知,后世,末日,世界末日,伊斯兰演讲"
+        },
+        "url" : "global-minbar.com",
+        "status" : 1,
+        "languages" : ["bn","es","fa","fr","ha","id","ru","sw","tg","ur","yo","zh"],
+        "logo" : "global-minbar.png"
+    },
+    {
+        "id" : 13,
+        "title" : "Happiness TV",
+        "alias" : "happiness-tv",
+        "slug" : {
+            "zh" : "古兰经-在线古兰经-古兰经诵读视频-古兰经mp3下载开端章-法谛海哈--1-穆罕默德-松迪格-敏沙威-马健-"
+        },
+        "name" : {
+            "zh" : "古兰经|在线古兰经|古兰经诵读视频| 古兰经mp3下载开端章-法谛海哈--1-穆罕默德-松迪格-敏沙威-马健-"
+        },
+        "description" : {
+            "zh" : "《古兰经》是伊斯兰教唯一的根本经典。《古兰经》（القرآن）共有114章，6236节，古兰”一词系阿拉伯语Quran的音译，意为“宣读”、“诵读”或“读物”，复述真主的话语之意。中国旧译为《古尔阿尼》、《可兰经》、《古兰真经》、《宝命真经》等开端章-法谛海哈--穆罕默德-松迪格-敏沙威-奉至仁至慈的真主之名，"
+        },
+        "url" : "happiness-tv.com",
+        "status" : 0,
+        "languages" : ["zh"],
+        "logo" : "happiness-tv.png"
+    },
+    {
+        "id" : 14,
+        "title" : "Space Chanels",
+        "alias" : "space-chanels",
+        "slug" : {
+            "ar" : "موقع-فضاء-القنوات"
+        },
+        "name" : {
+            "ar" : "موقع فضاء القنوات"
+        },
+        "description" : {
+            "ar" : "موقع فضاء القنوات - الصفحة الرئيسية"
+        },
+        "url" : "spacechanels.com",
+        "status" : 0,
+        "languages" : ["ar"],
+        "logo" : "space-chanels.png"
+    },
+    {
+        "id" : 15,
+        "title" : "Alrushd FM",
+        "alias" : "alrushd-fm",
+        "slug" : {
+            "ar" : "إذاعة-الرشد-FM"
+        },
+        "name" : {
+            "ar" : "إذاعة الرشد FM علم وفائدة - وادي حضرموت ( سيؤون ، تريم ، القطن )"
+        },
+        "description" : {
+            "ar" : "إذاعة الرشد FM - علم وفائدة وهي إذاعة منوعة تبث في وادي حضرموت في كل من سيؤون و تريم والقطن وضواحيها على تردد 88.0 وعلى منظومة الوادي الرقمية وعلى الموقع مباشرة"
+        },
+        "url" : "alrushd-fm.com",
+        "status" : 0,
+        "languages" : ["ar"],
+        "logo" : "alrushd-fm.png"
+    },
+    {
+        "id" : 16,
+        "title" : "Olamah",
+        "alias" : "olamah",
+        "slug" : {
+            "ar" : "موقع-علماء-حضرموت"
+        },
+        "name" : {
+            "ar" : "موقع علماء حضرموت"
+        },
+        "description" : {
+            "ar" : "موقع يجمع علم علماء حضرموت وتراثهم من كتب وأبحاث وصوتيات وفيديوهات في الفقه والتوحيد والعقيدة والتاريخ واللغة ويجمع مختلف مناطق حضرموت مثل سيؤون وتريم والمكلا والشحر والقطن وغيل باوزير ووادي دوعن وعمد وساه والسيطان"
+        },
+        "url" : "olamah.com",
+        "status" : 0,
+        "languages" : ["ar"],
+        "logo" : "olamah.png"
+    }
+]

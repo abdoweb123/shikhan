@@ -1,0 +1,151 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> b7cb4e1d80796a98313415ef7a5d8e797d4f6f04
+body {
+    /* background-color: #363f4a; */
+    background-color: #CCCCCC;
+}
+.toast{background-color:#030303!important;}.toast-success{background-color:#51a351!important;}.toast-error{background-color:#bd362f!important;}.toast-info{background-color:#2f96b4!important;}.toast-warning{background-color:#f89406!important;}
+.thumbnail{
+    position: relative;
+}
+.thumbnail>.card-img.pull-right{
+    position: absolute;
+    top: 39%;
+}
+.thumbnail>.card-img{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 75%;
+    transform: translate(-50%, -50%);
+    margin: unset!important;
+}
+.tiles .tile .tile-body:not(.thumbnail)>img{
+    margin: 17px 25px;
+    display: block;
+    font-size: 56px;
+    line-height: 56px;
+    text-align: center;
+}
+.navbar-nav .nav-item .dropdown-menu{
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+
+.rangeslider,
+input[type='range'] {
+    direction: ltr;
+}
+
+.rangeslider__handle {
+    border-radius: 22px;
+    min-width: 62px;
+    line-height: 42px;
+    text-align: center;
+    color: green;
+    &:after {
+        background: 0;
+    }
+}
+
+
+html[dir="rtl"] .form-check .form-check-sign .check:before
+{
+    margin-left: unset;
+    margin-right: 7px;
+}
+html[dir="rtl"] .form-check .form-check-sign{
+    padding-right: unset;
+    padding-left: 10px;
+}
+
+html[dir="rtl"] .form-check .form-check-label span{
+    left: unset;
+    right: -1px;
+}
+.inputs-has-error>.invalid-feedback{
+    display: block;
+}
+
+.profile-content .table .title{
+    min-height: 23px;
+}
+<<<<<<< HEAD
+=======
+=======
+body {
+    /* background-color: #363f4a; */
+    background-color: #CCCCCC;
+}
+.toast{background-color:#030303!important;}.toast-success{background-color:#51a351!important;}.toast-error{background-color:#bd362f!important;}.toast-info{background-color:#2f96b4!important;}.toast-warning{background-color:#f89406!important;}
+.thumbnail{
+    position: relative;
+}
+.thumbnail>.card-img.pull-right{
+    position: absolute;
+    top: 39%;
+}
+.thumbnail>.card-img{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 75%;
+    transform: translate(-50%, -50%);
+    margin: unset!important;
+}
+.tiles .tile .tile-body:not(.thumbnail)>img{
+    margin: 17px 25px;
+    display: block;
+    font-size: 56px;
+    line-height: 56px;
+    text-align: center;
+}
+.navbar-nav .nav-item .dropdown-menu{
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+
+.rangeslider,
+input[type='range'] {
+    direction: ltr;
+}
+
+.rangeslider__handle {
+    border-radius: 22px;
+    min-width: 62px;
+    line-height: 42px;
+    text-align: center;
+    color: green;
+    &:after {
+        background: 0;
+    }
+}
+
+
+html[dir="rtl"] .form-check .form-check-sign .check:before
+{
+    margin-left: unset;
+    margin-right: 7px;
+}
+html[dir="rtl"] .form-check .form-check-sign{
+    padding-right: unset;
+    padding-left: 10px;
+}
+
+html[dir="rtl"] .form-check .form-check-label span{
+    left: unset;
+    right: -1px;
+}
+.inputs-has-error>.invalid-feedback{
+    display: block;
+}
+
+.profile-content .table .title{
+    min-height: 23px;
+}
+>>>>>>> origin/Abdelrahman_shikhan-10
+>>>>>>> b7cb4e1d80796a98313415ef7a5d8e797d4f6f04
